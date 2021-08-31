@@ -33,9 +33,9 @@ uuid = "0dad84c5-d112-42e6-8d28-ef12dabb789f"
 
 [[ArrayInterface]]
 deps = ["IfElse", "LinearAlgebra", "Requires", "SparseArrays", "Static"]
-git-tree-sha1 = "2cc636ec3015631b1c6ae1ccabb459fd9407997b"
+git-tree-sha1 = "85d03b60274807181bae7549bb22b2204b6e5a0e"
 uuid = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
-version = "3.1.29"
+version = "3.1.30"
 
 [[Artifacts]]
 uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
@@ -1069,9 +1069,9 @@ version = "0.6.1"
 
 [[StructTypes]]
 deps = ["Dates", "UUIDs"]
-git-tree-sha1 = "e36adc471280e8b346ea24c5c87ba0571204be7a"
+git-tree-sha1 = "8445bf99a36d703a09c601f9a57e2f83000ef2ae"
 uuid = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
-version = "1.7.2"
+version = "1.7.3"
 
 [[SuiteSparse]]
 deps = ["Libdl", "LinearAlgebra", "Serialization", "SparseArrays"]
